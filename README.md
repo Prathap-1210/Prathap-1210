@@ -2,11 +2,13 @@
 
 <img src="assets/github-banner.png" width="100%" alt="B. Prathap — AI, Full Stack, IoT and Innovation" />
 
-<h1>Hi 👋, I'm B. Prathap</h1>
+<br/>
 
-<h3>AI & Data Science Engineer • Full-Stack Developer • AI Research Enthusiast • IoT Innovator</h3>
+AI & Data Science Engineer · Full-Stack Developer · AI Research Enthusiast · IoT Innovator
 
-<p>Building intelligent systems that solve real-world problems through AI, networking, and software engineering.</p>
+<p>
+Building intelligent, reliable systems that solve real-world problems through AI, software engineering, networking, and connected devices.
+</p>
 
 
 
@@ -20,25 +22,25 @@
 
 </div>
 
-🚀 About Me
+About Me
 
 name: B. Prathap
 education: B.Tech — Artificial Intelligence & Data Science
 institute: St. Joseph's Institute of Technology, Chennai
 focus: [Artificial Intelligence, Full-Stack Development, IoT, Product Engineering]
-currently_building: RescueMesh
-currently_learning: [Advanced Java, DSA, System Design, AI Agents, Cloud Computing]
+currently_building: [FloodTwin, RescueMesh]
+currently_learning: [Advanced Java, DSA, System Design, AI Agents, Cloud]
 mission: Build technology that creates measurable impact at scale
 
-💡 I convert real-world problems into practical, demo-ready products.
+I enjoy converting real-world problems into practical, demo-ready products.
 
-🤖 My interests include AI/ML, full-stack development, Android, networking, and embedded IoT.
+My work spans AI/ML, web and Android development, networking, and embedded IoT.
 
-🚀 I actively participate in hackathons, internships, and project expos.
+I actively participate in hackathons, internships, and project expos to learn by building.
 
-🤝 I’m open to collaborating on AI, disaster-tech, health-tech, and ed-tech projects.
+I’m open to collaborating on impactful AI, disaster-tech, health-tech, and ed-tech projects.
 
-🛠️ Tech Stack
+Tech Stack
 
 <div align="center">
 
@@ -76,47 +78,47 @@ Development, Cloud & IoT
 
 </div>
 
-🌟 Featured Projects
+Featured Projects
 
 Project
 
-Description
+What it does
 
-Technology
+Core technologies
 
-🚑 RescueMesh
+FloodTwin
+
+Predicts urban flooding, drainage overload, hotspots, and safer evacuation routes
+
+Python, Machine Learning, FastAPI, React, GIS
+
+RescueMesh
 
 Decentralized emergency communication when cellular networks fail
 
 Kotlin, Android, ESP32, BLE Mesh, LoRa
 
-🌊 FloodTwin
-
-AI-powered urban flood prediction, monitoring, and safer-route analysis
-
-Python, Machine Learning, Full Stack
-
-🌿 Plant Disease Detection
+Plant Disease Detection
 
 Identifies plant diseases from images using deep learning
 
 Python, TensorFlow, OpenCV
 
-🧠 MindMate AI
+MindMate AI
 
-Accessible AI mental-health support assistant
+Mental-health support assistant with an accessible conversational interface
 
 AI/NLP, JavaScript, Backend APIs
 
-💊 Medicine Identifier
+Medicine Identifier
 
-Recognizes medicines and presents identification details
+Recognizes medicines and presents useful identification details
 
 Computer Vision, OCR, Web Development
 
-📊 HackFlow
+HackFlow
 
-Manages hackathon teams, submissions, workflows, and evaluation
+Organizes hackathon workflows, teams, submissions, and evaluation
 
 Full-Stack Development, Database
 
@@ -126,7 +128,7 @@ Full-Stack Development, Database
   </a>
 </p>
 
-🏆 Highlights & Current Mission
+Highlights
 
 <table>
 <tr>
@@ -138,37 +140,47 @@ Achievements
 
 🚀 Top 10 Finalist at HackIndia
 
-💼 Multiple industry internships
+💼 Completed multiple industry internships
 
-🧩 1,000+ programming problems solved
+🧩 Solved 1,000+ programming problems
 
-🎓 NPTEL Elite — Python for Data Science
+🎓 NPTEL Elite certification in Python for Data Science
 
 </td>
 <td width="50%" valign="top">
 
 Current Mission
 
+🌊 Build and improve the FloodTwin platform
+
 🚑 Develop the production version of RescueMesh
 
-🌊 Advance the FloodTwin platform
+🧠 Build capable AI agents and intelligent products
 
-🧠 Build capable AI agents and products
+⚙️ Strengthen DSA and system-design fundamentals
 
-⚙️ Strengthen DSA and system design
+☁️ Explore cloud computing and deployment
 
-☁️ Explore cloud deployment
-
-🤝 Contribute to open source
+🤝 Make meaningful open-source contributions
 
 </td>
 </tr>
 </table>
 
-📈 Development Focus
+GitHub Analytics
 
 <div align="center">
 
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prathap-1210&theme=tokyonight" alt="Prathap's GitHub statistics" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathap-1210&theme=tokyonight" alt="Prathap's repositories by language" />
+
+<img width="92%" src="https://streak-stats.demolab.com?user=Prathap-1210&theme=tokyonight&hide_border=true&background=020617&ring=00E7FF&fire=8B5CF6&currStreakLabel=00E7FF" alt="GitHub contribution streak" />
+
+</div>
+
+Contribution Journey
+
+<div align="center">
 
 
 
